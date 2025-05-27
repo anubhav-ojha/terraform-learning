@@ -12,9 +12,11 @@ This project is a personal and community-oriented journey to learn, practice, an
 <details>
 <summary>📁 <strong>terraform-learning/</strong> (root folder)</summary>
 
+```
 terraform-learning/
 ├── 📄 README.md # Project overview
 ├── 📄 LICENSE # Open-source license (MIT)
 ├── 📄 .gitignore # Files to exclude from Git
+```
 
 </details>
